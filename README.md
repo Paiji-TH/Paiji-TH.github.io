@@ -15,8 +15,8 @@ Twister comes with a front matter generator that will make generating the front 
 ### Extensive Documentation
 We don't believe in delivering Code without explanation. So we wrote an extensive Documentation for Twister that goes over every single step from installing all of the dependencies to explaining how to customize, create posts and publish. We even tell you how you can host Twister with Plugins on GitHub pages.
 
-Check the [Docs](http://twister.digitalmind.ch/documentation/) out.
+Check the [Docs](https://twister.digitalmind.ch/documentation/) out.
 
 ### Feedback, Wishes, Problems
 If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
-If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
+If you just want to give us a general feedback feel free to [contact us!](https://digitalmind.ch/contact/)

@@ -19,8 +19,8 @@ build:
   preview_env:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
-  install_dependencies_command: 'gem install rubygems-bundler gem install jekyll bundler
-    bundle install && npm install -g grunt-cli '
+  install_dependencies_command: 'bundle install && npm install gem install bundler
+    gem install rubygems-bundler gem install jekyll bundler npm install -g grunt-cli '
   preview_docker_image: forestryio/ruby:2.6-node12
   mount_path: "/srv"
   working_dir: "/srv"
